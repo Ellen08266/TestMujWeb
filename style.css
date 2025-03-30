@@ -11,14 +11,25 @@ h2 {
 background-color: rgb(222, 135, 170);
 color: rgb(141, 30, 210);
 font-size: 30px;
+border-color: rgb(54, 5, 44);
 
 }
 
 .kulata {
    border-radius: 50%;
+   float: left;
+   
 
 }
 
+.hranata {
+   float: right;
+}
+
+.clear {
+
+    clear: both;
+}
 body {
     background-color: rgb(199, 163, 233);
 }
